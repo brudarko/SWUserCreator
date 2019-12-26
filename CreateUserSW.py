@@ -2,11 +2,11 @@
 #    FUNÇÃO SCRIPT.: CRIAR USUÁRIO SONICWALL VIA TERMINAL            #
 #------------------------------------------------------------------- #
 #                                                                    #
-#       DESENVOLVIMENTO.: BRUNO GABRIEL			                         #
-#       EMAIL.: BRUDARKO@GMAIL.COM  	                               #
+#       DESENVOLVIMENTO.: BRUNO GABRIEL			                     #
+#       EMAIL.: BRUDARKO@GMAIL.COM  	                             #
 #       DATA CRIACAO.: 26/12/2019                                    #
-#       VERSAO.: 1.0_201912						                               #
-#                                               		                 #
+#       VERSAO.: 1.0_201912						                     #
+#                                               		             #
 ######################################################################
 #
 import paramiko
